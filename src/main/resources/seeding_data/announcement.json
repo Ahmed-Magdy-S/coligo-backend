@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "description": "Hi my heroes! I just want you to ready to our exams and focus on remaining assessments to gain more grades. good luck my warriors",
+    "employeeId": 1
+  },
+  {
+    "id": 2,
+    "description": "Hello my students, I want to announce that the next quiz will be within 3 days and will cover the whole unit2; study hard",
+    "employeeId": 2
+  },
+  {
+    "id": 3,
+    "description": "Gooooooooooooooood Morning warriors, this is the announcements from mangement department",
+    "employeeId": 3
+  },
+  {
+    "id": 4,
+    "description": "Hello, can't wait to organize with you graduation events",
+    "employeeId": 4
+  }
+]

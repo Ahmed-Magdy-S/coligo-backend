@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Mr.Ahmed Mostafa",
+    "department": "Math 101"
+  },
+  {
+    "id": 2,
+    "name": "Mrs.Salma Ahmed",
+    "department": "Physics 02"
+  },
+  {
+    "id": 3,
+    "name": "School Management",
+    "department": "Management"
+  },
+  {
+    "id": 4,
+    "name": "Events Manager",
+    "department": "Events"
+  }
+]
